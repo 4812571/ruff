@@ -1,0 +1,5 @@
+project: ruff
+target: application
+
+cmds:
+  - cmd: /ruff @@
